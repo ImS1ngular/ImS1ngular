@@ -1,8 +1,11 @@
 ### Oi, eu sou S1ngular
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Pw36xEMWCM)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HeMN5FSYbm)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ApenasSingular)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](blackreaperx1@proton.me)
 
+### Sobre mim:
+Oi, eu sou o S1ngular. Sou entusiasta em programação, desenvolvo bots de discord e também sou empreendedor. Estou sempre de olho em uma boa notícia da infosec e curto trocar uma ideia, fique a vontade pra me procurar.
+ 
 [![S1ngular GitHub stats](https://github-readme-stats.vercel.app/api?username=ImS1ngular)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImS1ngular)](https://github.com/ImS1ngular/github-readme-stats)
 
@@ -27,8 +30,5 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
 </div><br/>
 
-### Sobre mim:
 
-Eu sou um entusiasta da tecnologia, gosto de ver divulgações científicas, filosóficas e assuntos gerais.
 
-Uma das minhas qualidades é o estudo, o qual eu valorizo, desejo me tornar um bom profissional no futuro.
